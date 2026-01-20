@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Primary Colors  */
+  --color-primaryColor: #12253e;
+  --color-primaryLight: #183354;
+  --color-srcColor: #f4796c;
+
+  /* Text Color  */
+  --color-textPrimaryColor: white;
+  --color-headingColor: #183354;
+  ---color-paragraphColor: ;
+
+  /* Dark Color */
+  --color-dark1Color: ;
+  --color-dark2Color: ;
+  --color-dark3Color: ;
+  --color-dark4Color: ;
+  --color-dark5Color: ;
+
+  /* Shadow  */
+  --color-shadowSm: ;
+}
